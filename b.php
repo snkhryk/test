@@ -2,18 +2,18 @@
 $a = "a";
 $b = ["b"];
 $c = new DateTime();
-$d = fD();
-$e = fE();
+$d = fDDD();
+$e = fEEE();
 
 /**
  * @return array
  */
-function fD()
+function fDDD()
 {
     return "d";
 }
 
-function fE()
+function fEEE()
 {
     return ["e"];
 }
